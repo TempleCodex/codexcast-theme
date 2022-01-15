@@ -6,7 +6,6 @@ You paste this in `{host-url}/admin/config-public-details/`
 
 ```css
 /* ===== Hacked together CSS Start ===== */
-
 /* ===== Initial Setup ===== */
 :root {
     /* Enclave Colors */
